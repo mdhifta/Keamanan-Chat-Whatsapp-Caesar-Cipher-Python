@@ -15,3 +15,4 @@ if you want to run this code, there are a few things you have to prepare:
 * Python 3.*
 * Jupyter Notebook -> https://jupyter.org/install
 * import string
+* Your Chat Whatsapp txt
